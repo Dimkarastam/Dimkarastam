@@ -105,8 +105,8 @@ I am a **Full-Stack Web Engineer and Founder** based in **Athens, Greece**. I bu
 ## 📬 Let's Connect
 
 - 🌐 **Engineering Studio:** [karastamatis.gr](https://karastamatis.gr)
-- 🏢 **Agency:** [dkwebsolutions.gr](https://dkwebsolutions.gr)
-- 📧 **Direct Inquiries:** [dimkarastam@gmail.com](mailto:dimkarastam@gmail.com)
+- 🏢 **Agency:** [karastamatis.gr](https://karastamatis.gr)
+- 📧 **Direct Inquiries:** [contact@karastamatis.gr](mailto:contact@karastamatis.gr)
 - 📍 **Base:** Athens, Greece *(available worldwide for select engineering projects)*
 
 <br/>
