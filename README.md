@@ -8,7 +8,7 @@ Building high-performance, edge-native web platforms, resilient architectures, a
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-karastamatis.gr-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://karastamatis.gr)
-[![Agency](https://img.shields.io/badge/Agency-dkwebsolutions.gr-6366f1?style=flat-square&logo=web&logoColor=white)](https://dkwebsolutions.gr)
+[![Agency](https://img.shields.io/badge/Agency-karastamatis.gr-6366f1?style=flat-square&logo=web&logoColor=white)](https://karastamatis.gr)
 [![Email](https://img.shields.io/badge/Email-contact%40karastamatis.gr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@karastamatis.gr)
 [![Location](https://img.shields.io/badge/Location-Athens%2C%20Greece-10b981?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Athens,+Greece)
 [![GitHub](https://img.shields.io/badge/GitHub-Dimkarastam-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Dimkarastam)
